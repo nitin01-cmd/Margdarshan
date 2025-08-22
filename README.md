@@ -29,6 +29,11 @@ It provides structured data, personalized recommendations, and authentic peer in
 - 🏫 **Virtual Campus Tours & Reviews:** Videos, images, and first-hand student stories.  
 - 🎮 **Gamified Engagement:** Quizzes, badges, and streaks to keep students motivated.  
 
+
+
+**Website Link** - https://dsaishared.blob.core.windows.net/uxcceleratecontainer/projects/68a60e0fb931135a2eff3814/webpages/consolidated_webpages/registration_page.html
+
+
 ## Tech Stack Used  
 - **Frontend:** React.js / Next.js  
 - **Backend:** Node.js with Express / Django  
